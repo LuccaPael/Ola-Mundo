@@ -13,6 +13,6 @@ let nomeCompletoTemplate = `Nome: ${nome} ${sobrenome} S. do Nascimento`
 console.log (nomeCompletoTemplate)
 
 
-let idadeTemplate = `${idade + 2} ${sobrenome}` 
+let idadeTemplate = `Idade: ${idade + 2}` 
 console.log (idadeTemplate)
 
