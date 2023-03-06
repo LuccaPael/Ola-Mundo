@@ -10,9 +10,9 @@ console.log ("Nome: " + nomeCompletoString)
 
 //Templet String  ``
 let nomeCompletoTemplate = `Nome: ${nome} ${sobrenome} S. do Nascimento` 
-console.log (nomeCompleto)
+console.log (nomeCompletoTemplate)
 
 
 let idadeTemplate = `${idade + 2} ${sobrenome}` 
-console.log ("Idade: " + idadeTemplate)
+console.log (idadeTemplate)
 
